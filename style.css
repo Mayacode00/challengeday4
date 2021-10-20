@@ -79,7 +79,7 @@ li:hover {
     height: 100%;
   }
   nav {
-    overflow: auto;
+    overflow-x: scroll;
   }
   li {
     font-size: 15px;
